@@ -1,0 +1,16 @@
+Concurrency,Service,CPU (%),Memory (MiB)
+1,Order,0.02,31.62
+1,Restaurant,0.02,27.11
+1,Delivery,0.02,26.73
+2,Order,0.03,31.1
+2,Restaurant,0.05,26.26
+2,Delivery,0.03,26.75
+4,Order,0.02,31.02
+4,Restaurant,0.03,26.44
+4,Delivery,0.04,26.97
+8,Order,0.01,31.58
+8,Restaurant,0.02,27.0
+8,Delivery,0.04,27.14
+16,Order,0.02,31.39
+16,Restaurant,0.03,26.88
+16,Delivery,0.03,27.0
